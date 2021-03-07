@@ -1,0 +1,22 @@
+{
+  "name": "@ng-lib/button",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "ng build button"
+  },
+  "peerDependencies": {
+    "@angular/common": "^10.2.4",
+    "@angular/core": "^10.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/erdemcaygor/ng-lerna-example.git",
+    "directory": "projects/button"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
