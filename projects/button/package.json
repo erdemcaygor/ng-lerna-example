@@ -14,10 +14,10 @@
     "directory": "projects/button"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@erdemcaygor"
+    "registry": "https://npm.pkg.github.com/erdemcaygor"
   },
   "dependencies": {
     "tslib": "^2.0.0"
   },
-  "gitHead": "4dd89cb5daac7101d7402f4c93324d39692c0e2a"
+  "gitHead": "87bf50216a9345c39b0ed710b145ac3ad1f7ce2c"
 }
