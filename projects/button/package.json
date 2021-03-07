@@ -1,5 +1,5 @@
 {
-  "name": "@ng-lib/button",
+  "name": "@erdemcaygor/button",
   "version": "0.0.6",
   "scripts": {
     "build": "ng build button"
@@ -19,5 +19,5 @@
   "dependencies": {
     "tslib": "^2.0.0"
   },
-  "gitHead": "9b9d230860f8e1086bbc42b1a587ba5880c58cda"
+  "gitHead": "ade7633615a8102e851448b86ae7187d1862223e"
 }
